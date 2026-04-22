@@ -1,114 +1,78 @@
-<div align="center">
+<p align="center">
+  <img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif" width="90%" />
+</p>
 
-# Hi 👋, I'm Rajesh Roshan  
-### Full-Stack Developer | AI & ML Enthusiast | MCA Candidate
+<h1 align="center">
+  Hi 👋, I'm 
+  <span style="background: linear-gradient(90deg, #00BFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">
+    Rajesh Roshan
+  </span>
+</h1> 
+<h3 align="center">
+  🚀 <span style="color:#00BFFF;">Full-Stack Developer</span>
+</h3>
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="300px">
+<p align="center">
+  💻 <b style="color:#FF8C00;">MERN Stack</b> &nbsp; | &nbsp; 
+  ⚙️ <b style="color:#32CD32;">Backend Development</b> &nbsp; | &nbsp; 
+  📈 <b style="color:#FF4C4C;">Scalable Web Applications</b>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-I am a passionate Full-Stack Developer and AI/ML enthusiast currently pursuing MCA.  
-I enjoy building scalable web applications, exploring machine learning models, and solving real-world problems using technology.  
-I focus on writing clean, efficient, and production-ready code.
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Goldman&color=8A2BE2&size=28&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack;Backend+Development+Enthusiast;Building+Scalable+Web+Applications"/>
+</p>
+
+A passionate Full-Stack Developer actively building scalable web applications and robust backend systems, specializing in clean, efficient, and production-ready solutions while solving real-world problems, and continuously enhancing skills in modern web technologies, system design, and cybersecurity to build impactful and secure applications.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,tailwind,git&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 Secure Authentication System
-- Full-stack authentication system with JWT-based login/signup
-- Secure user session management with modern practices
-- **Tech Stack:** React, Node.js, Express, MongoDB  
-- 🔗 Live: https://secure-auth-app.vercel.app/
-
----
-
-### 📊 User Behavioral Analytics (UBA)
-- ML-based anomaly detection system
-- Uses Isolation Forest algorithm to detect unusual user behavior
-- Helps in cybersecurity monitoring and threat detection  
-- **Tech Stack:** Python, Scikit-learn, Pandas
-
----
-
-### 🌐 Portfolio Website
-- Responsive and modern developer portfolio
-- Smooth UI/UX with React and Tailwind CSS
-- Showcases all projects and skills  
-- **Tech Stack:** React, Tailwind CSS
-
----
-
-## 🧠 Skills
-
-### 💻 Frontend
-React, HTML, CSS, JavaScript, Tailwind CSS
-
-### ⚙️ Backend
-Node.js, Express.js
-
-### 🗄️ Database
-MongoDB, MySQL
-
-### 🧪 Programming
-Python, Java
-
-### 🔧 Tools
-Git, GitHub, Postman, VS Code
-
----
-
-## 🏆 Highlights
-- Built multiple full-stack MERN applications  
-- Working on AI/ML-based security systems  
-- Strong foundation in Data Structures & Algorithms  
-- Experience in real-world project development  
-- Passionate about cybersecurity and system design  
-
----
-
-## 📚 Currently Learning
-- Advanced System Design  
-- Deep Learning (Neural Networks)  
-- Cloud Computing (AWS basics)  
-- Cybersecurity fundamentals  
-
----
-
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajesh-Roshan98&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh-Roshan98&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+</p>
 
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajesh-Roshan98&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh-Roshan98&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajesh-Roshan98&theme=dark)
-
----
-
-## ⚡ Fun Fact
-I enjoy turning complex problems into simple and scalable solutions 🚀
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajesh-Roshan98&theme=tokyonight&hide_border=true&border_radius=12"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
-- **LinkedIn:** https://linkedin.com/in/rajeshroshan89  
-- **Email:** rrajeshroshan89@gmail.com  
-- **Portfolio:** https://rrajesh-portfolio.vercel.app/
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajesh-Roshan98&theme=react-dark&hide_border=true&area=true&radius=12" width="95%"/>
+</p>
 
 ---
 
-</div>
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/rajeshroshan89">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://rrajesh-portfolio.vercel.app/">
+  <img src="https://dummyimage.com/60x60/111827/00BFFF&text=RR" height="50" style="border-radius:12px;"/>
+</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rrajeshroshan89@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Rajesh-Roshan98">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+</p>
